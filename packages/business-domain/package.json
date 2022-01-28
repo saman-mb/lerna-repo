@@ -1,0 +1,14 @@
+{
+  "name": "business-domain",
+  "version": "1.0.0",
+  "description": "contains app use cases",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5",
+    "comments-service": "^1.0.0",
+    "posts-service": "^1.0.0"
+  }  
+}

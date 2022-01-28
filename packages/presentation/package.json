@@ -1,0 +1,13 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5",
+    "business-domain": "^1.0.0"
+  }
+}
